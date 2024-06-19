@@ -1,7 +1,8 @@
 ﻿@model Expense_Tracker.Models.Category
 
 @{
-    ViewData["Title"] = "Create";
+    @*page view title changed here. if 0 then "Create a new category" else "Edit category" *@
+    ViewData["PageTitle"] =  Model.CategoryId == 0 ? "Create a new category": "Edit category";
 }
 
 
