@@ -9,6 +9,7 @@ namespace Expense_Tracker.Models
         public int CategoryId { get; set; } //primary key
 
         [Column(TypeName = "nvarchar(50)")]
+        [Required(ErrorMessage = "Title is required.")] //form validation for 
         public string Title { get; set; }  //maybe for naming the expense
 
         [Column(TypeName = "nvarchar(5)")]

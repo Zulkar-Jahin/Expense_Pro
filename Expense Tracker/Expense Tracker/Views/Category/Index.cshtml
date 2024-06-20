@@ -45,14 +45,14 @@
         </a>
 
     @* for secured deletation using a form where post method is used. *@
-        <form action="/Category/Delete/${CategoryId}" method="post">
+    <form action="/Category/Delete/${CategoryId}" method="post">
     @Html.AntiForgeryToken()
     @* submit btn for delete req in post method.
             javascript: onclick is used for popup message to user make sure he wants to delete data or not. *@
-            <button type="submit" class="btn btn-sm btn-link no-a-decoration" onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
-                <i class="fa-solid fa-trash-can fa-lg text-danger"></i>   @* bostrap : danger is fpr red colour *@
-            </button>
-        </form>
+        <button type="submit" class="btn btn-sm btn-link no-a-decoration" onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
+             <i class="fa-solid fa-trash-can fa-lg text-danger"></i>   @* bostrap : danger is fpr red colour *@
+        </button>
+    </form>
 
     </div>
 </script>

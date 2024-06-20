@@ -1,14 +1,14 @@
 ﻿@model Expense_Tracker.Models.Category
 
 @{
-    @*page view title changed here. if 0 then "Create a new category" else "Edit category" *@
+    @*page view title changed here. if 0 then "Create a new category" else "Edit category".Here CategoryId is the primary key.*@
     ViewData["PageTitle"] =  Model.CategoryId == 0 ? "Create a new category": "Edit category";
 }
 
 
 <div class="row">
     <div class="col-md-7">
-        <div class="widget p-5">
+        <div class="widget p-5" style="background-color:#212b36">
             <form asp-action="AddOrEdit">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <input type="hidden" name="CategoryId" value="@Model.CategoryId" />
@@ -19,38 +19,32 @@
                         <input type="radio" id="radiomiddle" name="Type" value="Income" checked="@(Model.Type=="Income")" />
                         <label class="e-btn" for="radiomiddle">Income</label>
                     </div>
-                    <span asp-validation-for="Type" class="text-danger"></span>
                 </div>
-
-
                 <div class="mb-3">
                     <ejs-textbox id="title" placeholder="Title" ejs-for="Title" floatLabelType="Always"></ejs-textbox>  @*retrieve values from category model.cs*@
-                    <span asp-validation-for="Title" class="text-danger"></span>
+                    <span asp-validation-for="Title" class="text-danger fs-6"></span>
                 </div>
                 <div class="mb-3">
-                    <ejs-textbox id="icon" placeholder="Icon" ejs-for="Icon" floatLabelType="Always"></ejs-textbox> @*retrieve values from icon*@
-                    <span asp-validation-for="Icon" class="text-danger"></span>
+                    <ejs-textbox id="icon" placeholder="Icon" ejs-for="Icon" floatLabelType="Always"></ejs-textbox>  @*retrieve values from icon*@
                 </div>
-
-
                 <ejs-button id="submit" type="submit" content="Submit" cssClass="e-success"></ejs-button>
             </form>
-
         </div>
-    </div>
 
+    </div>
     <div class="col-md-5">
-        <div class="widget h-100 d-flex justify-content-center align-items-center" style="background-color:#6e899c">
-            <i class="fa-solid fa-shapes fa-2xl" style="color: #102147;"></i>
+        <div class="widget h-100 d-flex justify-content-center align-items-center">
+            <i class="fa-solid fa-shapes fa-2xl"></i>
         </div>
     </div>
-
 </div>
 
 
 
-@section Scripts {
+@* dont need this because we disabled client-side validation *@
+@* for client side validation read this document : https://ej2.syncfusion.com/aspnetcore/documentation/common/input-validation *@
+@* @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
     }
-}
+} *@
