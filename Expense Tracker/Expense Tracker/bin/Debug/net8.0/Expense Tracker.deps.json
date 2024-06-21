@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.6",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2",
-          "Syncfusion.EJ2.AspNet.Core": "26.1.35"
+          "Syncfusion.EJ2.AspNet.Core": "26.1.38"
         },
         "runtime": {
           "Expense Tracker.dll": {}
@@ -1599,23 +1599,23 @@
           }
         }
       },
-      "Syncfusion.EJ2.AspNet.Core/26.1.35": {
+      "Syncfusion.EJ2.AspNet.Core/26.1.38": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.3",
-          "Syncfusion.Licensing": "26.1.35"
+          "Syncfusion.Licensing": "26.1.38"
         },
         "runtime": {
           "lib/net8.0/Syncfusion.EJ2.dll": {
-            "assemblyVersion": "26.1.35.0",
-            "fileVersion": "26.1.35.0"
+            "assemblyVersion": "26.1.38.0",
+            "fileVersion": "26.1.38.0"
           }
         }
       },
-      "Syncfusion.Licensing/26.1.35": {
+      "Syncfusion.Licensing/26.1.38": {
         "runtime": {
           "lib/net8.0/Syncfusion.Licensing.dll": {
-            "assemblyVersion": "26.1.35.0",
-            "fileVersion": "26.1.35.0"
+            "assemblyVersion": "26.1.38.0",
+            "fileVersion": "26.1.38.0"
           }
         }
       },
@@ -2736,19 +2736,19 @@
       "path": "nuget.versioning/6.9.1",
       "hashPath": "nuget.versioning.6.9.1.nupkg.sha512"
     },
-    "Syncfusion.EJ2.AspNet.Core/26.1.35": {
+    "Syncfusion.EJ2.AspNet.Core/26.1.38": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-w0ZyTHGLZWDqunrzx8IO3p120l9S2LwSvDaiXp+vhwNhNm9ZBQRBxgxD7VQKhjor4GUWQJXPdeGMQxs701JPPg==",
-      "path": "syncfusion.ej2.aspnet.core/26.1.35",
-      "hashPath": "syncfusion.ej2.aspnet.core.26.1.35.nupkg.sha512"
+      "sha512": "sha512-AU3WFlfPdYUdyKmlFG7NYiHOuoHsFDd4c38W7IiAlMv+chFWuJFHNZnZyAVIjjU11Vz8BDA1g35ujNxchBb57g==",
+      "path": "syncfusion.ej2.aspnet.core/26.1.38",
+      "hashPath": "syncfusion.ej2.aspnet.core.26.1.38.nupkg.sha512"
     },
-    "Syncfusion.Licensing/26.1.35": {
+    "Syncfusion.Licensing/26.1.38": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DPMS7ODbzaS+S2//uOMW8XL/08AEIMz/TEb113gaXdwga328ozz+4wiQGZBJzjLGglyO1vV+GTUigquDGHWcFg==",
-      "path": "syncfusion.licensing/26.1.35",
-      "hashPath": "syncfusion.licensing.26.1.35.nupkg.sha512"
+      "sha512": "sha512-E+ND41n1HfkJKnWrq8cDL8t9y+YueUFoyIkMzKZpowv8flKrVfmmg3nJ5HXeTtI1/PysoI4PCFmIbzMarO4Axg==",
+      "path": "syncfusion.licensing/26.1.38",
+      "hashPath": "syncfusion.licensing.26.1.38.nupkg.sha512"
     },
     "System.CodeDom/5.0.0": {
       "type": "package",

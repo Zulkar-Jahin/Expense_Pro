@@ -66,7 +66,7 @@
             },
             "Syncfusion.EJ2.AspNet.Core": {
               "target": "Package",
-              "version": "[26.1.35, )"
+              "version": "[26.1.38, )"
             }
           },
           "imports": [

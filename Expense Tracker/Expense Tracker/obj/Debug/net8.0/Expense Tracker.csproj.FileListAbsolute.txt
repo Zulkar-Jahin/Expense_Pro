@@ -9,12 +9,23 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Azure.Core.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Azure.Identity.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Humanizer.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Build.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
@@ -29,119 +40,8 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Mono.TextTemplating.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.CodeDom.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Convention.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Hosting.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Runtime.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Drawing.Common.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Memory.Data.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Runtime.Caching.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Security.Permissions.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Windows.Extensions.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.csproj.AssemblyReference.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.AssemblyInfoInputs.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.AssemblyInfo.cs
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.csproj.CoreCompileInputs.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.RazorAssemblyInfo.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.RazorAssemblyInfo.cs
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.sourcelink.json
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.build.json
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.development.json
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.Expense Tracker.props
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.pack.json
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\bundle\Expense Tracker.styles.css
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense .AD010034.Up2Date
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\refint\Expense Tracker.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.pdb
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.genruntimeconfig.cache
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\ref\Expense Tracker.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Build.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Build.Framework.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
@@ -149,6 +49,8 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Mono.TextTemplating.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\NuGet.Common.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\NuGet.Configuration.dll
@@ -159,7 +61,23 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\NuGet.ProjectModel.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\NuGet.Protocol.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.CodeDom.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Memory.Data.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\System.Windows.Extensions.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\af\Humanizer.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ar\Humanizer.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -208,6 +126,32 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
@@ -221,6 +165,19 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
@@ -247,10 +204,53 @@ E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
-E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.csproj.AssemblyReference.cache
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.AssemblyInfoInputs.cache
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.AssemblyInfo.cs
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.csproj.CoreCompileInputs.cache
 E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cache
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.RazorAssemblyInfo.cache
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.RazorAssemblyInfo.cs
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.sourcelink.json
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.build.json
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.development.json
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.Expense Tracker.props
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Expense Tracker.props
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Expense Tracker.props
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\staticwebassets.pack.json
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\bundle\Expense Tracker.styles.css
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\scopedcss\projectbundle\Expense Tracker.bundle.scp.css
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense .AD010034.Up2Date
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\refint\Expense Tracker.dll
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.pdb
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.genruntimeconfig.cache
+E:\CSE 3200 Lab\ExpensePro\Expense_Pro\Expense Tracker\Expense Tracker\obj\Debug\net8.0\ref\Expense Tracker.dll

@@ -32,6 +32,10 @@ body {
     font-size: x-large;
 }
 
+.main-content{
+    margin-left: 290px;
+}
+
 /*Grid*/
 .e-grid {
     border: 0;
@@ -146,7 +150,15 @@ body {
     color: inherit;
 }
 
-
+/*SideBar*/
+#sidebar {
+    background-color: #8aff7a; /*black*/
+    background-color: #036c48; /*dark green*/
+    background-color: #04261a; /*black green*/
+    border-right: 1px dashed rgba(75,82,85,0.24);
+    padding: 10px 20px;
+    /*overflow: hidden;*/
+}
 
 /*Widget*/
 .widget {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nRxvyN7jRVM=",
+  "dgSpecHash": "gv62T6XDGXM=",
   "success": true,
   "projectFilePath": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
   "expectedPackageFiles": [
@@ -124,8 +124,8 @@
     "C:\\Users\\Jahin\\.nuget\\packages\\nuget.projectmodel\\6.9.1\\nuget.projectmodel.6.9.1.nupkg.sha512",
     "C:\\Users\\Jahin\\.nuget\\packages\\nuget.protocol\\6.9.1\\nuget.protocol.6.9.1.nupkg.sha512",
     "C:\\Users\\Jahin\\.nuget\\packages\\nuget.versioning\\6.9.1\\nuget.versioning.6.9.1.nupkg.sha512",
-    "C:\\Users\\Jahin\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\26.1.35\\syncfusion.ej2.aspnet.core.26.1.35.nupkg.sha512",
-    "C:\\Users\\Jahin\\.nuget\\packages\\syncfusion.licensing\\26.1.35\\syncfusion.licensing.26.1.35.nupkg.sha512",
+    "C:\\Users\\Jahin\\.nuget\\packages\\syncfusion.ej2.aspnet.core\\26.1.38\\syncfusion.ej2.aspnet.core.26.1.38.nupkg.sha512",
+    "C:\\Users\\Jahin\\.nuget\\packages\\syncfusion.licensing\\26.1.38\\syncfusion.licensing.26.1.38.nupkg.sha512",
     "C:\\Users\\Jahin\\.nuget\\packages\\system.codedom\\5.0.0\\system.codedom.5.0.0.nupkg.sha512",
     "C:\\Users\\Jahin\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\Jahin\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
