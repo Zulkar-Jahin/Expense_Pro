@@ -160,8 +160,40 @@ body {
     /*overflow: hidden;*/
 }
 
-/*Widget*/
+/*For Widget*/
 .widget {
     border-radius: 1rem;
     background-color: #1a222b;
 }
+
+    /*main widget property here */
+    .widget.summary > div:first-child {
+        background-color: #222b33;
+        padding: 1rem;
+        border-top-left-radius: 1rem;
+        border-bottom-left-radius: 1rem;
+    }
+        /*for child widgets if have any*/
+        .widget.summary > div:first-child i {
+            font-weight: bold;
+        }
+
+    /*color for income box*/
+    .widget.income > div:first-child {
+        color: #65da41;
+    }
+    /*color for expense box*/
+    .widget.expense > div:first-child {
+        color: #ff4e48;
+    }
+    /*color for balance box*/
+    .widget.balance > div:first-child {
+        color: #2aa1ff; /*blue*/
+        color: #ce7e00; /*orange*/
+    }
+
+
+    /*chart will be added next time in sha allah*/
+    .widget.chart {
+        padding: 5px;
+    }

@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|e:\\cse 3200 lab\\expensepro\\expense_pro\\expense tracker\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1407341A-0ACB-4A2D-98D0-3F49E6056137}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,73 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAI4AAAAAAAAAAAAswJkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-21T13:37:19.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-21T13:18:31.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Program.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
-              "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Program.cs",
-              "RelativeToolTip": "Expense Tracker\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACAAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T13:12:48.917Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAALgAAAAAAAAAAAAuwL4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-21T13:37:19.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
               "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvyoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-21T13:12:19.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\DashboardController.cs",
               "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Expense Tracker\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwCoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T13:10:29.955Z",
               "EditorCaption": ""
@@ -113,7 +79,7 @@
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAAApAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T13:45:47.99Z",
               "EditorCaption": ""
