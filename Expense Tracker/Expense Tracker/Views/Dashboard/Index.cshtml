@@ -57,3 +57,44 @@
 
 
 </div>
+
+@* Donut and followed by a spline chart will be here  *@
+@*Doughnut and Spline Chart*@
+<div class="row mb-4">
+    <div class="col-md-4">
+        <div class="widget chart">
+            <div class="p-4">
+                <h5 class="fw-bold">Expense By Category</h5>
+            </div>
+            <ejs-accumulationchart id="doughnutchart" enableSmartLabels background="#1a222b">
+                <e-accumulation-series-collection>
+                    @* innerradius used for inner void of donut chart *@
+                    @* xname = name/title ofthe slice
+                    yname = how much place for each slices
+                    text = percentage shown in each slices *@
+                    @* each legend icon is circle shaped by legendshape ="Circle" *@
+                    <e-accumulation-series dataSource="@ViewBag.DoughnutChartData"
+                                           xName="categoryTitleWithIcon" yName="amount"
+                                           innerRadius="60%" legendShape="Circle"
+                                           //later need to add 
+                    >
+                        <e-accumulationseries-datalabel name="formattedAmount" visible></e-accumulationseries-datalabel>
+                    </e-accumulation-series>
+                </e-accumulation-series-collection>
+                @* legens on the top of chart *@
+                @* toogling chart stoped intentionally with false,default is true*@
+                <e-accumulationchart-legendsettings position="Top" toggleVisibility="false">
+                    @* .90 rem /.85 rem fit here  *@
+                    <e-legendsettings-textstyle color="#fff" size="1rem"></e-legendsettings-textstyle>
+                </e-accumulationchart-legendsettings>
+                @* tooltip/ hover shower in each slides of the chart *@
+                <e-accumulationchart-tooltipsettings enable></e-accumulationchart-tooltipsettings>
+
+
+            </ejs-accumulationchart>
+        </div>
+    </div>
+    <div class="col-md-8">
+    
+    </div>
+</div>

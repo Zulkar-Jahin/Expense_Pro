@@ -46,6 +46,20 @@ namespace Expense_Tracker.Controllers
             ViewBag.Balance = String.Format(culture, " {0:C0}", Balance);
 
 
+            //Doughnut Chart - Expense By Category
+            ViewBag.DoughnutChartData = SelectedTransactions
+                .Where(i => i.Category.Type == "Expense")
+                .GroupBy(j => j.Category.CategoryId)
+                .Select(k => new
+                {
+                    categoryTitleWithIcon = k.First().Category.Icon + " " + k.First().Category.Title,
+                    amount = k.Sum(j => j.Amount),
+                    formattedAmount = k.Sum(j => j.Amount).ToString("C0"),
+                })
+                .OrderByDescending(l => l.amount)
+                .ToList();
+
+
 
 
             return View();

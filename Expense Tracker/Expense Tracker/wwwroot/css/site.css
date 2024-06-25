@@ -194,6 +194,7 @@ body {
 
 
     /*chart will be added next time in sha allah*/
+    /*used for the Donut and spline chart bootstrap classes */
     .widget.chart {
         padding: 5px;
     }
