@@ -40,10 +40,10 @@ namespace Expense_Tracker.Controllers
 
             //Balance
             int Balance = TotalIncome - TotalExpense;
-            /*CultureInfo culture = CultureInfo.CreateSpecificCulture("en-US");*/ /*for dollar*/
-            CultureInfo culture = CultureInfo.CreateSpecificCulture("en-BD"); /*for taka*/
+            CultureInfo culture = CultureInfo.CreateSpecificCulture("en-US"); /*for dollar*/
+            /*CultureInfo culture = CultureInfo.CreateSpecificCulture("en-BD");*/ /*for taka*/
             culture.NumberFormat.CurrencyNegativePattern = 1;
-            ViewBag.Balance = String.Format(culture, " {0:C0}", Balance);
+            ViewBag.Balance = String.Format(culture, "{0:C0}", Balance);
 
 
             //Doughnut Chart - Expense By Category
@@ -103,7 +103,12 @@ namespace Expense_Tracker.Controllers
                                       };
 
 
-
+            //Recent Transactions of the last 5 days.
+            ViewBag.RecentTransactions = await _context.Transactions
+                .Include(i => i.Category)
+                .OrderByDescending(j => j.Date)
+                .Take(5)
+                .ToListAsync();
 
             return View();
         }

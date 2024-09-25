@@ -18,7 +18,8 @@
         </ejs-grid>
     </div>
     <div class="col-md-5">
-        <div class="widget h-100 d-flex justify-content-center align-items-center" style="background-color:#6e899c">
+        @* style="background-color:#6e899c" *@
+        <div class="widget h-100 d-flex justify-content-center align-items-center" >
             <i class="fa-solid fa-shapes fa-2xl" style="color: #102147;"></i>
         </div>
     </div>
@@ -50,7 +51,7 @@
     @* submit btn for delete req in post method.
             javascript: onclick is used for popup message to user make sure he wants to delete data or not. *@
         <button type="submit" class="btn btn-sm btn-link no-a-decoration" onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
-             <i class="fa-solid fa-trash-can fa-lg text-danger"></i>   @* bostrap : danger is fpr red colour *@
+             <i class="fa-solid fa-trash-can fa-lg text-danger"></i>   @* bostrap : danger is for red colour *@
         </button>
     </form>
 

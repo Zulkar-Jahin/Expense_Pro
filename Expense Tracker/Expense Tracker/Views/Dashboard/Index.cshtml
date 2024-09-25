@@ -75,7 +75,8 @@
                     @* each legend icon is circle shaped by legendshape ="Circle" *@
                     <e-accumulation-series dataSource="@ViewBag.DoughnutChartData"
                                            xName="categoryTitleWithIcon" yName="amount"
-                                           innerRadius="60%" legendShape="Circle">
+                                           innerRadius="60%" legendShape="Circle"
+                                           palettes=@(new string[]{"#0e8d76","#a4b219","#cb9b00","#8a442c","#0454b5","#7d0a0a","#822690","#4c2090","#313e93","#0096ac"})>
                         <e-accumulationseries-datalabel name="formattedAmount" visible></e-accumulationseries-datalabel>
                     </e-accumulation-series>
                 </e-accumulation-series-collection>
@@ -87,8 +88,6 @@
                 </e-accumulationchart-legendsettings>
                 @* tooltip/ hover shower in each slides of the chart *@
                 <e-accumulationchart-tooltipsettings enable></e-accumulationchart-tooltipsettings>
-
-
             </ejs-accumulationchart>
         </div>
     </div>
@@ -129,4 +128,43 @@
             </ejs-chart>
         </div>
     </div>
+</div>
+
+
+
+@*Recent Transactions and More*@
+<div class="row">
+    <div class="col-md-6">
+        <div class="widget">
+            <div class="p-4">
+                <h5 class="fw-bold">Recent Transactions</h5>
+            </div>
+            <div class="px-4 pb-4">
+                <ejs-grid id="recent-transactions"
+                          dataSource="@ViewBag.RecentTransactions" gridLines="None">
+                    <e-grid-columns>
+                        <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
+                        <e-grid-column headerText="Date" field="Date" type="date" format="MMM-dd-yy"></e-grid-column>
+                        <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right"></e-grid-column>
+                    </e-grid-columns>
+                </ejs-grid>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="widget h-100">
+            @* <div class="d-flex justify-content-center align-items-center h-100">
+            <span><i class="fa-solid fa-plus fa-2xl"></i> Widget</span>
+            </div> *@
+            @* <span> *@
+            @* <div>
+            <i text-align="center">Beware of little expenses. A small leak will sink a great ship.  - Benjamin Franklin</i>
+            </div> *@
+            <div style="text-align: center; font-weight: bold; color: #6dd17a; padding: 20px; font-size: 1.2em;">
+                Beware of little expenses. A small leak will sink a great ship. - Benjamin Franklin
+            </div>
+            @* </span> *@
+        </div>
+    </div>
+
 </div>

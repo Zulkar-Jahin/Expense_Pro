@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-16x16.png",
-      "PackagePath": "staticwebassets\\favicon-16x16.png"
-    },
-    {
       "Id": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\favicon-32x32.png"
     },
@@ -251,6 +247,14 @@
     {
       "Id": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "E:\\CSE 3200 Lab\\ExpensePro\\Expense_Pro\\Expense Tracker\\Expense Tracker\\wwwroot\\profile.png",
+      "PackagePath": "staticwebassets\\profile.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Expense Tracker.Microsoft.AspNetCore.StaticWebAssets.props",
